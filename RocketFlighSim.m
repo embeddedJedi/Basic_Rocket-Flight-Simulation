@@ -1,1 +1,3 @@
-Rocket Flight Sim
+%% Rocket Flight Simulation
+
+clc; close all; clear all;
